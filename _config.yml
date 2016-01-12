@@ -1,0 +1,28 @@
+name: Binary Stars
+favicon: null
+layout_spectrum: 0.6908036479726434
+typography_spectrum: 0.036584994522854686
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5333872237242758
+  lightness: 0.5767947025597095
+  saturation: 0.6903516775928438
+  rhythmicContrast: 0.709549380466342
+purpose: []
