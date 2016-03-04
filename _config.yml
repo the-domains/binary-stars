@@ -1,6 +1,6 @@
 name: Binary Stars
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25676
 typography_spectrum: 0.32312
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#2d1821'
     - '#177380'
     - '#4ea79e'
-  brandStrength: 0.0625
-  lightness: 0.8125
-  saturation: 0.5
+  brandStrength: 0.25
+  lightness: 0.1875
+  saturation: 0.6875
   rhythmicContrast: 0.5
 purpose: []
